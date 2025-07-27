@@ -987,7 +987,7 @@
 
 *   [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 
-*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
+*   [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js and any React.js framework.
 
 *   [work7z/MDGJX](https://github.com/work7z/MDGJX) - 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！
 
@@ -10033,7 +10033,7 @@
 
 *   [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
-*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering 99 language translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  AI视频翻译配音工具，99种语言双向翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 *   [gojue/moling](https://github.com/gojue/moling) - MoLing is a computer-use and browser-use based MCP server. It is a locally deployed, dependency-free office AI assistant.
 
@@ -11881,6 +11881,8 @@
 
 *   [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of talks and articles about real world frontend development
 
+*   [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+
 ## Swift
 
 *   [nuance-dev/achico](https://github.com/nuance-dev/achico) - A minimal free macOS local file compressor app
@@ -12288,8 +12290,6 @@
 *   [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform
 
 *   [dan-divy/spruce](https://github.com/dan-divy/spruce) - A social networking platform made using Node.js and MongoDB
-
-*   [RyanFitzgerald/devportfolio](https://github.com/RyanFitzgerald/devportfolio) - A lightweight, customizable single-page personal portfolio website template built with JavaScript and Sass
 
 *   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 

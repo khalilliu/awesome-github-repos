@@ -65,7 +65,7 @@
 
 *   [yetone/smart-suggestion](https://github.com/yetone/smart-suggestion) - Get AI-powered command suggestions **directly** in your zsh shell.
 
-*   [zzxwill/aigit](https://github.com/zzxwill/aigit) - The most powerful git commit assistant ever! `aigit commit` is as simple as `git commit`.
+*   [agentsdance/aigit](https://github.com/agentsdance/aigit) - The most powerful git commit assistant ever! `aigit commit` is as simple as `git commit`.
 
 *   [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 
@@ -507,7 +507,7 @@
 
 *   [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 
-*   [toolsetlink/mcache](https://github.com/toolsetlink/mcache) - An in-memory cache library for golang. support: lru,lfu,hash-lru,hash-lfu,arc. 一个高性能本地内存缓存,带有各种内存淘汰算法
+*   [songangweb/mcache](https://github.com/songangweb/mcache) - An in-memory cache library for golang. support: lru,lfu,hash-lru,hash-lfu,arc. 一个高性能本地内存缓存,带有各种内存淘汰算法
 
 *   [toolsetlink/durl](https://github.com/toolsetlink/durl) - short-url    distributed and high-performance   高性能短链接服务 短网址
 
@@ -3422,6 +3422,8 @@
 *   [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
 
 *   [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
+
+*   [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
 
 *   [github/mini-throttle](https://github.com/github/mini-throttle) - A small JavaScript throttle & debounce implementation.
 
@@ -6539,7 +6541,7 @@
 
 *   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
-*   [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
+*   [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 
 *   [juanmc2005/diart](https://github.com/juanmc2005/diart) - A python package to build AI-powered real-time audio applications
 
@@ -6627,7 +6629,7 @@
 
 *   [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) -
 
-*   [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+*   [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 
 *   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
@@ -6679,7 +6681,7 @@
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 
-*   [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+*   [zai-org/ChatGLM2-6B](https://github.com/zai-org/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 
 *   [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 
@@ -7341,6 +7343,8 @@
 
 *   [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 
+*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
+
 *   [just-js/just](https://github.com/just-js/just) - the only javascript runtime to hit no.1 on techempower :fire:
 
 *   [bitnenfer/tiny-canvas](https://github.com/bitnenfer/tiny-canvas) - Tiny-Canvas is a lightweight minimal implementation of a batched and stack matrix based canvas similar to HTML5 Canvas2D with WebGL backend.
@@ -7604,8 +7608,6 @@
 *   [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 
 *   [uber-node/ringpop-node](https://github.com/uber-node/ringpop-node) - Scalable, fault-tolerant application-layer sharding for Node.js applications
-
-*   [javaistic/javaistic](https://github.com/javaistic/javaistic) - An open-source, comprehensive website for learning Java programming.
 
 *   [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
@@ -9589,7 +9591,7 @@
 
 *   [metafizzy/packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts
 
-*   [matthieua/WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
+*   [mattdelacdev/WOW](https://github.com/mattdelacdev/WOW) - Reveal CSS animation as you scroll down a page
 
 *   [osdio/noder-react-native](https://github.com/osdio/noder-react-native) - The mobile app of cnodejs.org written in React Native
 
@@ -9886,8 +9888,6 @@
 *   [rwieruch/favesound-mobx](https://github.com/rwieruch/favesound-mobx) - 🎶 A SoundCloud Client in React + MobX running in production. Live Demo and Source Code to explore React + MobX. Refactored from favesound-redux
 
 *   [insoftpub/storefront](https://github.com/insoftpub/storefront) - ReactJS Storefront
-
-*   [cezerin/client](https://github.com/cezerin/client) - JavaScript client for Cezerin REST API
 
 *   [neptunian/react-photo-gallery](https://github.com/neptunian/react-photo-gallery) - React Photo Gallery
 
@@ -10534,8 +10534,6 @@
 *   [dabbott/react-framer](https://github.com/dabbott/react-framer) - Create Framer (https://framer.com) prototypes using React (https://reactjs.org/)
 
 *   [MagicCube/movie-board](https://github.com/MagicCube/movie-board) - Re-design and implement Douban Movie with React and Redux.
-
-*   [cezerin/cezerin](https://github.com/cezerin/cezerin) - Cezerin is React and Node.js based eCommerce platform.
 
 *   [madmous/madClones](https://github.com/madmous/madClones) - A collection of frameworks that I love with a strong focus on clean code, testing, software architecture/design and devops.
 
@@ -11293,8 +11291,6 @@
 
 *   [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 
-*   [tjy-gitnub/win12](https://github.com/tjy-gitnub/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
-
 *   [imarvinle/WebServer](https://github.com/imarvinle/WebServer) - A C++ Lightweight Web Server based on Linux epoll
 
 *   [sampsyo/cs6120](https://github.com/sampsyo/cs6120) - advanced compilers
@@ -11324,8 +11320,6 @@
 *   [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [trueleaf/apiflow](https://github.com/trueleaf/apiflow) - 基于 Vue 和 Electron 的在线协同api接口管理工具。接口文档管理工具、接口工具、接口文档、api文档、api工具、快乐摸鱼
 
 *   [yanhaijing/Painter](https://github.com/yanhaijing/Painter) - Drawing program based on HTML5 Canvas.
 
@@ -11508,6 +11502,8 @@
 *   [chuanxshi/javascript-patterns](https://github.com/chuanxshi/javascript-patterns) - JavaScript Design Patterns
 
 *   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+
+*   [qieguo2016/demos](https://github.com/qieguo2016/demos) - 茄果的作品集
 
 ## Java
 
@@ -12309,6 +12305,8 @@
 
 *   [the-guild-org/website](https://github.com/the-guild-org/website) - The Guild website & blog
 
+*   [javaistic/javaistic](https://github.com/javaistic/javaistic) - An open-source, comprehensive website for learning Java programming.
+
 *   [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com) - The Tailwind CSS documentation website.
 
 *   [cpinitiative/usaco-guide](https://github.com/cpinitiative/usaco-guide) - A free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond.
@@ -12396,6 +12394,8 @@
 *   [chinanf-boy/react-beautiful-dnd-zh](https://github.com/chinanf-boy/react-beautiful-dnd-zh) -  🇨🇳翻译: react-beautiful-dnd 文档 ❤️ 更新 ✅
 
 *   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
 
 ## TeX
 

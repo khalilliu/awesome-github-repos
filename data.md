@@ -635,7 +635,7 @@
 
 *   [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 
-*   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+*   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，也支持Gemini cli中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 
 *   [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 
@@ -4903,7 +4903,7 @@
 
 *   [tuture-dev/tuture](https://github.com/tuture-dev/tuture) - Write tutorials from the future, with the power of Git and community. 『图雀写作工具』
 
-*   [refly-ai/refly](https://github.com/refly-ai/refly) - The world’s first open-source agentic workspace for Human-AI collaboration.
+*   [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
 
 *   [onfuns/nestjs-blog](https://github.com/onfuns/nestjs-blog) - Nestjs + Mysql博客系统
 

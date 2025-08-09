@@ -807,6 +807,8 @@
 
 *   [Tiledesk/design-studio](https://github.com/Tiledesk/design-studio) - Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.
 
+*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+
 *   [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 
 *   [ItusiAI/Open-Aiartools](https://github.com/ItusiAI/Open-Aiartools) - AI 图像编辑 Web 应用，使用 **FLUX.1 Kontext \[pro]** 前沿模型提供强大的图像编辑功能，支持Stripe支付，注册登录，积分系统等，代码100%开源。
@@ -885,7 +887,7 @@
 
 *   [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV) - https://hellocsv.github.io/HelloCSV/
 
-*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 
 *   [agentlabs-dev/openator](https://github.com/agentlabs-dev/openator) - Open source version of OpenAI Operator - Ask your browser to perform highlevel tasks
 
@@ -1323,7 +1325,7 @@
 
 *   [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 
-*   [mnfst/manifest](https://github.com/mnfst/manifest) - A backend for modern workflow. 🦚 Code or vibe-code your backend in seconds with Manifest.
+*   [mnfst/manifest](https://github.com/mnfst/manifest) - Manifest gives you a complete backend with data, storage, logic and an admin UI so you can ship your prototypes, MVPs and simple web apps fast. 🦚
 
 *   [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 
@@ -1445,7 +1447,7 @@
 
 *   [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android
 
-*   [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy.
+*   [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
 
 *   [WebAV-Tech/WebAV](https://github.com/WebAV-Tech/WebAV) - A web-based Video Editing SDK built on WebCodecs. 基于 WebCodecs 构建的网页视频编辑 SDK。
 
@@ -9174,8 +9176,6 @@
 *   [yetone/smart-suggestion](https://github.com/yetone/smart-suggestion) - Get AI-powered command suggestions **directly** in your zsh shell.
 
 *   [agentsdance/aigit](https://github.com/agentsdance/aigit) - The most powerful git commit assistant ever! `aigit commit` is as simple as `git commit`.
-
-*   [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 
 *   [autokitteh/autokitteh](https://github.com/autokitteh/autokitteh) - Durable workflow automation in just a few lines of code
 

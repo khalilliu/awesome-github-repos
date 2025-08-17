@@ -2739,7 +2739,7 @@
 
 *   [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 
-*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Knowledge ingestion, LLM-agnostic deployment, and API connectivity for agents.
 
 *   [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 

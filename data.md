@@ -55,6 +55,8 @@
 
 ## Python
 
+*   [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+
 *   [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 
 *   [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
@@ -2739,7 +2741,7 @@
 
 *   [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 
-*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Knowledge ingestion, LLM-agnostic deployment, and API connectivity for agents.
+*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 
 *   [vuejs/repl](https://github.com/vuejs/repl) - Vue SFC REPL as a Vue 3 component
 
@@ -10852,8 +10854,6 @@
 *   [Damao/front-end-collect](https://github.com/Damao/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 
 *   [georgegognadze/awesome-resources](https://github.com/georgegognadze/awesome-resources) - :zap: Awesome coding resources for all stages and ages
-
-*   [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 
 ## Jupyter Notebook
 

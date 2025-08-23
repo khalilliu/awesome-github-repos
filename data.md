@@ -55,6 +55,10 @@
 
 ## TypeScript
 
+*   [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
+
+*   [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - Cursor for design - Open Source
+
 *   [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes.
 
 *   [jaypyles/Scraperr](https://github.com/jaypyles/Scraperr) - Self-hosted webscraper.
@@ -267,7 +271,7 @@
 
 *   [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
 
-*   [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+*   [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
 
 *   [addyosmani/recorder](https://github.com/addyosmani/recorder) - 📹 Record is an open-source web app to record screen and camera directly in your browser | No installation required | No tracking | Fully local
 
@@ -4133,7 +4137,9 @@
 
 ## Python
 
-*   [dataease/SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统
+*   [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
+
+*   [dataease/SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
 
 *   [HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) -
 
@@ -4255,7 +4261,7 @@
 
 *   [unifyai/unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
 
-*   [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
+*   [askui/vision-agent](https://github.com/askui/vision-agent) - Enable AI to control your desktop, mobile and HMI devices
 
 *   [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 
@@ -5485,7 +5491,7 @@
 
 *   [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 
-*   [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
+*   [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor
 
 *   [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz) - Instant offline SQL-powered data visualisation in your browser
 
@@ -12113,8 +12119,6 @@
 
 *   [Ramotion/folding-cell](https://github.com/Ramotion/folding-cell) - :octocat: 📃 FoldingCell is an expanding content cell with animation made by @Ramotion
 
-*   [CatchChat/Yep](https://github.com/CatchChat/Yep) - Meet Genius
-
 ## C
 
 *   [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
@@ -12636,10 +12640,6 @@
 *   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 
 *   [ServusJon/SVGCircle-Module-for-FramerJS](https://github.com/ServusJon/SVGCircle-Module-for-FramerJS) - Animate Circles (Strokes) easily.
-
-*   [robotdestroy/Framer-Snippets-Library](https://github.com/robotdestroy/Framer-Snippets-Library) - A library of Framer snippets to help speed up your workflow
-
-*   [sigtm/framer-hook](https://github.com/sigtm/framer-hook) - A module for Framer that lets you easily hook one property onto another via spring or gravity.
 
 ## Common Lisp
 

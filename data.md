@@ -56,6 +56,8 @@
 
 ## TypeScript
 
+*   [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter) - An open-source, all-in-one AI API router.
+
 *   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 
 *   [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
@@ -170,7 +172,7 @@
 
 *   [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 
-*   [lexmin0412/dify-chat](https://github.com/lexmin0412/dify-chat) - 一个基于 Dify API 的 AI Web 应用, 适配聊天、工作流等应用类型，支持单应用、多应用等多种模式，提供开箱即用的应用配置管理功能，适配深度思考、思维链、图表等多种形式输出。使用文档：https://docs.dify-chat.lexmin.cn/
+*   [lexmin0412/dify-chat](https://github.com/lexmin0412/dify-chat) - 一个 AI 应用平台，基于 Dify API 构建，提供深度优化的用户端交互界面，支持 Chatflow、Workflow 等多种 Dify 应用类型，适配深度思考、思维链、图表渲染、文件处理等丰富的 AI 输出形式，提供开箱即用的 AI 应用解决方案。
 
 *   [nearmetips/DailiCode](https://github.com/nearmetips/DailiCode) - AI agent that is compatible with multiple LLM models
 
@@ -2568,7 +2570,7 @@
 
 *   [dailydotdev/daily-api](https://github.com/dailydotdev/daily-api) -
 
-*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+*   [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 
 *   [linagora/Twake](https://github.com/linagora/Twake) - Twake is a secure open source collaboration platform to improve organizational productivity.
 
@@ -4474,7 +4476,7 @@
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
+*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native editor (or your own).
 
 *   [caiyunbin/pandas-data-analyse](https://github.com/caiyunbin/pandas-data-analyse) - 使用pandas进行数据分析的各式各样的操作，这是关于pandas学习的2000行代码，用以日后查询，其中的内容包括常用的excel功能，同时里面还加入了Python画图的库
 
@@ -4533,8 +4535,6 @@
 *   [AbanteAI/archive-old-cli-mentat](https://github.com/AbanteAI/archive-old-cli-mentat) -
 
 *   [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
-
-*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
@@ -5068,6 +5068,8 @@
 
 *   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 
+*   [jackhawks/rectg](https://github.com/jackhawks/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
+
 *   [LearningOS/rust-based-os-comp2023](https://github.com/LearningOS/rust-based-os-comp2023) - 2023秋冬季开源操作系统训练营
 
 *   [synebula/SoftwareEngineerExam](https://github.com/synebula/SoftwareEngineerExam) - 软考资料, 收集于网络。目前包括：系统架构师、项目管理师、软件设计师备考资料
@@ -5564,7 +5566,7 @@
 
 *   [AnoyRC/priospace](https://github.com/AnoyRC/priospace) - All-in-one Productivity App
 
-*   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude-code镜像服务，同时支持Gemini-cli、Codex-cli中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+*   [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，支持Claude Code、Gemini CLI、Codex CLI，支持Claude Console接入。集成OAuth认   证、多账号池切换、自定义API密钥、OpenAI兼容格式、代理支持和智能防封机制。
 
 *   [yangshun/tree-node-cli](https://github.com/yangshun/tree-node-cli) - 🌲 Node.js library to list the contents of directories in a tree-like format, similar to the Linux tree command
 
@@ -9291,8 +9293,6 @@
 *   [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-
-*   [sindresorhus/cli-spinners](https://github.com/sindresorhus/cli-spinners) - Spinners for use in the terminal
 
 ## Vue
 

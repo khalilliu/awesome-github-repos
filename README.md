@@ -10,7 +10,7 @@
   [![Vanilla JS](https://img.shields.io/badge/Vanilla-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   
-  [🌟 Live Demo](https://awesome.tonngw.com) | [📖 Documentation](#) | [🤝 Contributing](CONTRIBUTING.md)
+  [🌟 Live Demo](https://awesome.tonngw.com) | [❤️ Simple Version](https://awesome.tonngw.com) | [📖 Documentation](#) | [🤝 Contributing](CONTRIBUTING.md)
   
   [English](#) | [中文](#)
 </div>

@@ -874,7 +874,7 @@
 
 *   [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clicks!
 
-*   [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+*   [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 
 *   [addyosmani/recorder](https://github.com/addyosmani/recorder) - 📹 Record is an open-source web app to record screen and camera directly in your browser | No installation required | No tracking | Fully local
 
@@ -1002,7 +1002,7 @@
 
 *   [StefanTerdell/json-schema-to-zod](https://github.com/StefanTerdell/json-schema-to-zod) -
 
-*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
+*   [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Translation Engine. Join discord:
 
 *   [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 
@@ -6170,7 +6170,7 @@
 
 *   [leomoon-studios/wiki-go](https://github.com/leomoon-studios/wiki-go) - A modern, feature-rich, databaseless flat-file wiki platform built with Go.
 
-*   [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk is a beautiful browser extension that allows you to use Gemini to read page content and have multiple conversations.
+*   [jeanchristophe13v/PageTalk](https://github.com/jeanchristophe13v/PageTalk) - PageTalk is a beautiful browser extension that allows you to use AI to read page content and have multiple conversations.
 
 *   [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 

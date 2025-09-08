@@ -3,6 +3,7 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Ruby](#ruby)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -17,7 +18,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Java](#java)
-*   [Ruby](#ruby)
 *   [Elixir](#elixir)
 *   [Dart](#dart)
 *   [Roff](#roff)
@@ -55,6 +55,16 @@
 *   [Processing](#processing)
 
 ## TypeScript
+
+*   [marchen-dev/marchen-player](https://github.com/marchen-dev/marchen-player) - Marchen Player 是本地视频的弹幕播放器，使用弹弹play API，支持跨平台，拖入动漫即可匹配弹幕
+
+*   [bilisound/client-mobile](https://github.com/bilisound/client-mobile) - 基于 React Native (Expo) 的 Bilisound 移动客户端
+
+*   [vidstack/player](https://github.com/vidstack/player) - UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.
+
+*   [emretuna/shadcn-iconpicker-tabler](https://github.com/emretuna/shadcn-iconpicker-tabler) - A searchable icon picker component built with NextJS, @tabler/icons-react, TailwindCSS and shadcn/ui. Features infinite scroll, tooltips, and customizable trigger button.
+
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 
 *   [synthetic-lab/octofriend](https://github.com/synthetic-lab/octofriend) - An open-source coding helper. Very friendly!
 
@@ -1260,7 +1270,7 @@
 
 *   [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
 
-*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - Cloudflare AI Platform with one-click deployment. 可一键部署的Cloudflare AI平台
 
 *   [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 
@@ -4177,6 +4187,46 @@
 *   [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## Ruby
+
+*   [basecamp/once-campfire](https://github.com/basecamp/once-campfire) -
+
+*   [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
+
+*   [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+*   [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
+
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+*   [vidarh/writing-a-compiler-in-ruby](https://github.com/vidarh/writing-a-compiler-in-ruby) - Code from my series on writing a Ruby compiler in Ruby
+
+*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
+
+*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
+
+*   [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
+
+*   [hauntedhost/kanban](https://github.com/hauntedhost/kanban) - Kanban 看板 is a Trello clone in Rails and Backbone.js
+
+*   [sharetribe/sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.
+
+*   [superhighfives/list-of-ingredients](https://github.com/superhighfives/list-of-ingredients) - An example of using create-react-app with Rails 5 API, ActiveAdmin, and Heroku
+
+*   [AnthonyRondinone/artHouse](https://github.com/AnthonyRondinone/artHouse) - App Academy Fullstack Project
+
+*   [tenex/rails-assets](https://github.com/tenex/rails-assets) - The solution to assets management in Rails
+
+*   [bigardone/rails\_and\_react](https://github.com/bigardone/rails_and_react) - Sample application using Rails 4.2.0 beta and React.js
+
+*   [heartcombo/simple\_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
+
+*   [ruby-china/homeland](https://github.com/ruby-china/homeland) - :circus\_tent: An open source forum/community system based on Rails, developed based on Ruby China.
 
 ## Go
 
@@ -9636,10 +9686,6 @@
 
 *   [wagerfield/parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 
-*   [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue\_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
-
-*   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
-
 ## Rust
 
 *   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
@@ -11560,8 +11606,6 @@
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-*   [xianhu/LearnPython](https://github.com/xianhu/LearnPython) - 以撸代码的形式学习Python
-
 ## HTML
 
 *   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -11822,8 +11866,6 @@
 
 *   [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 
-*   [qieguo2016/demos](https://github.com/qieguo2016/demos) - 茄果的作品集
-
 ## Java
 
 *   [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
@@ -12017,44 +12059,6 @@
 *   [aistrate/AlgorithmsSedgewick](https://github.com/aistrate/AlgorithmsSedgewick) - Code from the book "Algorithms" (4th ed.) by Robert Sedgewick and Kevin Wayne (original, and my solutions to exercises).
 
 *   [cachecats/coderiver](https://github.com/cachecats/coderiver) -  致力于打造全平台全栈精品开源项目，计划做成包含  pc 端（Vue、React）、移动 H5（Vue、React）、ReactNative、Flutter、Android 原生、微信小程序、Angular、Node、java 后端的全平台型全栈项目，欢迎关注。
-
-## Ruby
-
-*   [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
-
-*   [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-*   [exercism/website](https://github.com/exercism/website) - The codebase for Exercism's website.
-
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-
-*   [vidarh/writing-a-compiler-in-ruby](https://github.com/vidarh/writing-a-compiler-in-ruby) - Code from my series on writing a Ruby compiler in Ruby
-
-*   [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-
-*   [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) - Nodejs学习笔记以及经验总结，公众号"程序猿小卡"
-
-*   [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
-
-*   [hauntedhost/kanban](https://github.com/hauntedhost/kanban) - Kanban 看板 is a Trello clone in Rails and Backbone.js
-
-*   [sharetribe/sharetribe](https://github.com/sharetribe/sharetribe) - Sharetribe Go is Sharetribe's old source-available marketplace software, which was also available as a hosted SaaS product. Sharetribe Go is no longer actively maintained.
-
-*   [superhighfives/list-of-ingredients](https://github.com/superhighfives/list-of-ingredients) - An example of using create-react-app with Rails 5 API, ActiveAdmin, and Heroku
-
-*   [AnthonyRondinone/artHouse](https://github.com/AnthonyRondinone/artHouse) - App Academy Fullstack Project
-
-*   [tenex/rails-assets](https://github.com/tenex/rails-assets) - The solution to assets management in Rails
-
-*   [bigardone/rails\_and\_react](https://github.com/bigardone/rails_and_react) - Sample application using Rails 4.2.0 beta and React.js
-
-*   [heartcombo/simple\_form](https://github.com/heartcombo/simple_form) - Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.
-
-*   [ruby-china/homeland](https://github.com/ruby-china/homeland) - :circus\_tent: An open source forum/community system based on Rails, developed based on Ruby China.
 
 ## Elixir
 
@@ -12598,8 +12602,6 @@
 
 *   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 
-*   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar\_chart::chart\_with\_upwards\_trend::tada:
-
 ## TeX
 
 *   [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust) - 本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除
@@ -12609,8 +12611,6 @@
 *   [saadq/resumake.io](https://github.com/saadq/resumake.io) - 📝 A website for automatically generating elegant LaTeX resumes.
 
 *   [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation
-
-*   [tuhdo/os01](https://github.com/tuhdo/os01) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 
 ## CoffeeScript
 

@@ -3,7 +3,9 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [Python](#python)
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [HTML](#html)
@@ -11,7 +13,6 @@
 *   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Lua](#lua)
 *   [MDX](#mdx)
@@ -51,10 +52,15 @@
 *   [Blade](#blade)
 *   [EJS](#ejs)
 *   [Nunjucks](#nunjucks)
-*   [Kotlin](#kotlin)
 *   [Processing](#processing)
 
 ## TypeScript
+
+*   [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.
+
+*   [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
+
+*   [preetsuthar17/ikiform](https://github.com/preetsuthar17/ikiform) - Enterprise-level forms with all the features you need at a price that makes sense
 
 *   [lingdojo/kanadojo](https://github.com/lingdojo/kanadojo) - Fun, minimalist, aesthetic platform for learning and practicing Japanese online.
 
@@ -141,8 +147,6 @@
 *   [juancgarza/claude-in-a-box](https://github.com/juancgarza/claude-in-a-box) - A ChatGPT Canvas/Claude Artifacts-style interface for Claude Code running in E2B sandboxes. Build, create, and code anything with AI-powered development in secure, isolated  environments.
 
 *   [e2b-dev/surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
-
-*   [goplus/builder](https://github.com/goplus/builder) - XBuilder
 
 *   [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
 
@@ -397,8 +401,6 @@
 *   [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 
 *   [krishn404/Git-Friend](https://github.com/krishn404/Git-Friend) - GitFriend is an AI-powered GitHub companion built with React, TypeScript, and Firebase. It helps users resolve Git/GitHub issues through smart AI chat, generates dynamic and professional README files, and adds commit emojis to enhance commit history.
-
-*   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 
 *   [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes
 
@@ -4226,11 +4228,21 @@
 
 *   [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 
+## Kotlin
+
+*   [tangshimin/MuJing](https://github.com/tangshimin/MuJing) - 一款通过电影、美剧或文档中的真实语境学习英语单词的应用，让您在原汁原味的情境中记忆词汇，提升学习效率。
+
+*   [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
+
 ## Python
+
+*   [fakerybakery/openbridge](https://github.com/fakerybakery/openbridge) - Use Claude Code with any LLM provider - GLM-4.5, Kimi-K2, Qwen3-Coder, DeepSeek, etc.
+
+*   [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - Agentic Foundation Platform
 
 *   [m6r-ai/humbug](https://github.com/m6r-ai/humbug) - Humbug: building an operating system for human-AI collaboration
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控今日头条、百度热搜、微博、抖音、知乎、B站等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 
@@ -4301,6 +4313,8 @@
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
 *   [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
+
+*   [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
 
 *   [vbuterin/blogmaker](https://github.com/vbuterin/blogmaker) - The self-made software package I used to make my blog. Feel free to use it!
 
@@ -4888,6 +4902,414 @@
 
 *   [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 
+## Rust
+
+*   [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+
+*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
+
+*   [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
+
+*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+
+*   [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
+
+*   [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+
+*   [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
+
+*   [utooland/utoo](https://github.com/utooland/utoo) - An unified toolchain for web development.
+
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+
+*   [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
+
+*   [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer \[SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
+
+*   [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
+
+*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
+
+*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
+
+*   [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
+
+*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
+
+*   [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
+
+*   [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
+
+*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+
+*   [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
+
+*   [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
+
+*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+
+*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
+
+*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+
+*   [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
+
+*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+
+*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+
+*   [mistgc/bili-live-chat](https://github.com/mistgc/bili-live-chat) - A bilibili streaming chat tool using TUI written in Rust.
+
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+
+*   [c-bata/db\_tutorial](https://github.com/c-bata/db_tutorial) - Writing a sqlite clone from scratch in Rust (and Python3 for testing). Thanks @cstack !
+
+*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
+
+*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
+
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+
+*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
+
+*   [Dimchikkk/velo](https://github.com/Dimchikkk/velo) - App for brainstorming & sharing ideas 🦀 Learning Project
+
+*   [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+
+*   [metent/uair](https://github.com/metent/uair) - An extensible pomodoro timer
+
+*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
+
+*   [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
+
+*   [mozilla-spidermonkey/jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) - Experimental JS parser-generator project.
+
+*   [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
+
+*   [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙
+
+*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
+
+*   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+
+*   [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+
+*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+
+*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+
+*   [redox-os/ralloc](https://github.com/redox-os/ralloc) - Mirror of https://gitlab.redox-os.org/redox-os/ralloc
+
+*   [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
+
+*   [shawnanastasio/rudo](https://github.com/shawnanastasio/rudo) - A toy sudo clone written in Rust
+
+*   [subhojit777/minigrep](https://github.com/subhojit777/minigrep) - A small version of grep command written in Rust
+
+*   [ryochack/peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
+
+*   [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
+
+*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+
+*   [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
+
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+
+*   [Tablam/TablaM](https://github.com/Tablam/TablaM) - The practical relational programing language for data-oriented applications
+
+*   [docopt/docopt.rs](https://github.com/docopt/docopt.rs) - Docopt for Rust (command line argument parser).
+
+*   [gchp/rustbox](https://github.com/gchp/rustbox) - Rust implementation of the termbox library
+
+*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
+
+*   [vidhanio/html-node](https://github.com/vidhanio/html-node) - HTML nodes in Rust.
+
+*   [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
+
+*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
+
+*   [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
+
+*   [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+
+*   [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
+
+*   [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
+
+*   [magicant/yash-rs](https://github.com/magicant/yash-rs) - Reimplementation of yash, an extended POSIX shell
+
+*   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
+
+*   [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
+
+*   [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  \[Rust Latam conference, Montevideo Uruguay, March 2019]
+
+*   [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
+
+*   [gchp/iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
+
+*   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
+
+*   [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
+
+*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+
+*   [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
+
+*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+
+*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
+
+*   [comex/rust-shlex](https://github.com/comex/rust-shlex) - Split a string into shell words, like Python's shlex.
+
+*   [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) - The rusty shell toolkit for hackers
+
+*   [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
+
+*   [Byron/crates-io-cli](https://github.com/Byron/crates-io-cli) - Interact with crates.io from the command-line
+
+*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+
+*   [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
+
+*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
+
+*   [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
+
+*   [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
+
+*   [mogendi/rlox](https://github.com/mogendi/rlox) - An (incorrect) implementation of bob nystroms clox: https://craftinginterpreters.com/ in rust
+
+*   [nathell/treeviewer](https://github.com/nathell/treeviewer) - A console viewer for trees – pet project to help me learn Rust.
+
+*   [J-F-Liu/pom](https://github.com/J-F-Liu/pom) - PEG parser combinators using operator overloading without macros.
+
+*   [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
+
+*   [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
+
+*   [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
+
+*   [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
+
+*   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
+
+*   [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+
+*   [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
+
+*   [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
+
+*   [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+
+*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
+
+*   [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+
+*   [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
+
+*   [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+
+*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+
+*   [wez/wzsh](https://github.com/wez/wzsh) - Wez's Shell
+
+*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+
+*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+
+*   [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
+
+*   [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+
+*   [chyyuu/os\_kernel\_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
+
+*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
+
+*   [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
+
+*   [serayuzgur/weld](https://github.com/serayuzgur/weld) - Full fake REST API generator written with Rust
+
+*   [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
+
+*   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
+
+*   [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
+
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+
+*   [bendudson/EuraliOS](https://github.com/bendudson/EuraliOS) - A hobby x86-64 operating system written in Rust
+
+*   [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
+
+*   [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
+
+*   [facebookarchive/cargo-guppy](https://github.com/facebookarchive/cargo-guppy) - Track and query Cargo dependency graphs.
+
+*   [redox-os/ion](https://github.com/redox-os/ion) - Mirror of https://gitlab.redox-os.org/redox-os/ion
+
+*   [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
+
+*   [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+
+*   [wadackel/rs-monkey-lang](https://github.com/wadackel/rs-monkey-lang) - Monkey Programming Language written in Rust.
+
+*   [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
+
+*   [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
+
+*   [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
+
+*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+
+*   [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust
+
+*   [kenpratt/rusty\_scheme](https://github.com/kenpratt/rusty_scheme) - A Scheme interpreter written in Rust
+
+*   [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
+
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+
+*   [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
+
+*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+
+*   [lennart-finke/kyun](https://github.com/lennart-finke/kyun) - The worst text editor (yet)
+
+*   [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
+
+*   [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
+
+*   [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+
+*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
+
+*   [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
+
+*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+
+*   [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+
+*   [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
+
+*   [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
+
+*   [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+
+*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
+*   [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+
+*   [Pagliacii/sicp-reg-machine](https://github.com/Pagliacii/sicp-reg-machine) - Register machine in SICP Chapter 5. Solve exercise 5.51.
+
+*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [bheisler/TinyTemplate](https://github.com/bheisler/TinyTemplate) - A small, lightweight template engine
+
+*   [rust-hosted-langs/book](https://github.com/rust-hosted-langs/book) - Writing Interpreters in Rust: a Guide
+
+*   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+
+*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+
+*   [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
+
+*   [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
+
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+
+*   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+
+*   [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
+
+*   [doraemonkeys/rust\_code\_snippets](https://github.com/doraemonkeys/rust_code_snippets) - Rust语言圣经代码片段合集，带知识点注释
+
+*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+
+*   [Privoce/vocechat-server-rust](https://github.com/Privoce/vocechat-server-rust) - VoceChat is a superlight rust written social server. Easy integration to your site/app.
+
+*   [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
+
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
+
+*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+
+*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
+
+*   [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
+
+*   [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
+*   [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
+
+*   [better-rs/learn-rs](https://github.com/better-rs/learn-rs) - learn rust
+
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+
+*   [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
+
+*   [limads/queries](https://github.com/limads/queries) - Queries is a workbench to interact with relational databases, with initial support for Postgres.
+
+*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+
+*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+
+*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+
+*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+
+*   [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
+
+*   [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+
+*   [Nugine/bfjit](https://github.com/Nugine/bfjit) - Brainfuck JIT 虚拟机教程
+
+*   [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
+
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+
+*   [HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) - Vue's template compiler reimplemented in Rust!
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
+*   [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
+
+*   [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
+
+*   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
+
+*   [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend
+
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
+*   [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) - ac-library-rs is a rust port of AtCoder Library (ACL).
+
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
 ## Go
 
 *   [MartialBE/one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -5056,7 +5478,7 @@
 
 *   [gliderlabs/ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang
 
-*   [openziti/zrok](https://github.com/openziti/zrok) - Geo-scale, next-generation peer-to-peer sharing platform built on top of OpenZiti.
+*   [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 
 *   [elisescu/tty-share](https://github.com/elisescu/tty-share) - Share your linux or osx terminal over the Internet.
 
@@ -6027,6 +6449,8 @@
 *   [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
 
 *   [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - A terminal for Web SSH connection
+
+*   [goplus/builder](https://github.com/goplus/builder) - XBuilder
 
 *   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
@@ -7521,10 +7945,6 @@
 *   [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 
 *   [tamatamvan/tamvuean-references](https://github.com/tamatamvan/tamvuean-references) - My personal collections of various references for learning VueJS.
-
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-
-*   [AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) - 腾讯移动 Web 前端知识库
 
 ## JavaScript
 
@@ -11220,422 +11640,6 @@
 
 *   [keepfool/vue-tutorials](https://github.com/keepfool/vue-tutorials) - Let you insight into the Vue.js
 
-*   [antonmedv/monkberry](https://github.com/antonmedv/monkberry) - Monkberry is a JavaScript library for building web user interfaces
-
-*   [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt
-
-*   [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
-
-*   [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
-
-*   [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
-
-## Rust
-
-*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-
-*   [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
-
-*   [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-
-*   [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
-
-*   [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
-
-*   [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-
-*   [utooland/utoo](https://github.com/utooland/utoo) - An unified toolchain for web development.
-
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-
-*   [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A text editor in ≤1024 lines of code, written in Rust
-
-*   [frectonz/sql-studio](https://github.com/frectonz/sql-studio) - SQL Database Explorer \[SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]
-
-*   [ParthJadhav/Verve](https://github.com/ParthJadhav/Verve) - Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡
-
-*   [MirrorX-Desktop/MirrorX](https://github.com/MirrorX-Desktop/MirrorX) - Remote control tool for enterprise, teams and individuals. Build fast and security remote control network with fully control in a short time.
-
-*   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
-
-*   [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
-
-*   [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
-
-*   [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
-
-*   [oxc-project/oxc-resolver](https://github.com/oxc-project/oxc-resolver) - Rust version of webpack/enhanced-resolve
-
-*   [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-
-*   [getsentry/sentry-cli](https://github.com/getsentry/sentry-cli) - A command line utility to work with Sentry.
-
-*   [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
-
-*   [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-
-*   [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
-
-*   [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-
-*   [altsem/gitu](https://github.com/altsem/gitu) - A TUI Git client inspired by Magit
-
-*   [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-
-*   [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-
-*   [mistgc/bili-live-chat](https://github.com/mistgc/bili-live-chat) - A bilibili streaming chat tool using TUI written in Rust.
-
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-
-*   [c-bata/db\_tutorial](https://github.com/c-bata/db_tutorial) - Writing a sqlite clone from scratch in Rust (and Python3 for testing). Thanks @cstack !
-
-*   [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
-
-*   [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
-
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-
-*   [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-
-*   [Dimchikkk/velo](https://github.com/Dimchikkk/velo) - App for brainstorming & sharing ideas 🦀 Learning Project
-
-*   [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-
-*   [metent/uair](https://github.com/metent/uair) - An extensible pomodoro timer
-
-*   [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
-
-*   [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
-
-*   [mozilla-spidermonkey/jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) - Experimental JS parser-generator project.
-
-*   [jacobdeichert/mask](https://github.com/jacobdeichert/mask) - 🎭 A CLI task runner defined by a simple markdown file
-
-*   [orhun/halp](https://github.com/orhun/halp) - A CLI tool to get help with CLI tools 🐙
-
-*   [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-
-*   [rust-lang/regex](https://github.com/rust-lang/regex) - An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-
-*   [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
-
-*   [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-
-*   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-*   [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
-
-*   [redox-os/ralloc](https://github.com/redox-os/ralloc) - Mirror of https://gitlab.redox-os.org/redox-os/ralloc
-
-*   [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
-
-*   [shawnanastasio/rudo](https://github.com/shawnanastasio/rudo) - A toy sudo clone written in Rust
-
-*   [subhojit777/minigrep](https://github.com/subhojit777/minigrep) - A small version of grep command written in Rust
-
-*   [ryochack/peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
-
-*   [blyxxyz/lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser
-
-*   [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-
-*   [pipelight/pipelight](https://github.com/pipelight/pipelight) - Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.
-
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-
-*   [Tablam/TablaM](https://github.com/Tablam/TablaM) - The practical relational programing language for data-oriented applications
-
-*   [docopt/docopt.rs](https://github.com/docopt/docopt.rs) - Docopt for Rust (command line argument parser).
-
-*   [gchp/rustbox](https://github.com/gchp/rustbox) - Rust implementation of the termbox library
-
-*   [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
-
-*   [vidhanio/html-node](https://github.com/vidhanio/html-node) - HTML nodes in Rust.
-
-*   [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
-
-*   [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
-
-*   [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
-
-*   [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
-
-*   [r3bl-org/r3bl-open-core](https://github.com/r3bl-org/r3bl-open-core) - TUI framework and developer productivity apps in Rust 🦀
-
-*   [GREsau/schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code
-
-*   [magicant/yash-rs](https://github.com/magicant/yash-rs) - Reimplementation of yash, an extended POSIX shell
-
-*   [DanielKeep/tlborm](https://github.com/DanielKeep/tlborm) - The Little Book of Rust Macros
-
-*   [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
-
-*   [dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) - Learn to write Rust procedural macros  \[Rust Latam conference, Montevideo Uruguay, March 2019]
-
-*   [liljencrantz/crush](https://github.com/liljencrantz/crush) - Crush is a command line shell that is also a powerful modern programming language.
-
-*   [gchp/iota](https://github.com/gchp/iota) - A terminal-based text editor written in Rust
-
-*   [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
-
-*   [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
-
-*   [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-
-*   [jprochazk/garde](https://github.com/jprochazk/garde) - A powerful validation library for Rust
-
-*   [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-
-*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
-
-*   [comex/rust-shlex](https://github.com/comex/rust-shlex) - Split a string into shell words, like Python's shlex.
-
-*   [MrPicklePinosaur/shrs](https://github.com/MrPicklePinosaur/shrs) - The rusty shell toolkit for hackers
-
-*   [dzfrias/projectable](https://github.com/dzfrias/projectable) - :dizzy: A TUI file manager built for projects
-
-*   [Byron/crates-io-cli](https://github.com/Byron/crates-io-cli) - Interact with crates.io from the command-line
-
-*   [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-
-*   [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
-
-*   [flaneur2020/pua-lang](https://github.com/flaneur2020/pua-lang) - a dialect of The Monkey Programming Language
-
-*   [cgag/loc](https://github.com/cgag/loc) - Count lines of code quickly.
-
-*   [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍
-
-*   [mogendi/rlox](https://github.com/mogendi/rlox) - An (incorrect) implementation of bob nystroms clox: https://craftinginterpreters.com/ in rust
-
-*   [nathell/treeviewer](https://github.com/nathell/treeviewer) - A console viewer for trees – pet project to help me learn Rust.
-
-*   [J-F-Liu/pom](https://github.com/J-F-Liu/pom) - PEG parser combinators using operator overloading without macros.
-
-*   [toshi-search/Toshi](https://github.com/toshi-search/Toshi) - A full-text search engine in rust
-
-*   [huytd/kanban-app](https://github.com/huytd/kanban-app) - Kanban board built with Rust and Elm
-
-*   [tomaka/redshirt](https://github.com/tomaka/redshirt) - 🧑‍🔬 Operating system
-
-*   [google/rust-shell](https://github.com/google/rust-shell) - Helper library for std::process::Command to write shell script like tasks in rust
-
-*   [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
-
-*   [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
-
-*   [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
-
-*   [mohanson/gameboy](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.
-
-*   [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-
-*   [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
-
-*   [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
-
-*   [pier-cli/pier](https://github.com/pier-cli/pier) - A Linux script management CLI written in Rust
-
-*   [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-
-*   [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-
-*   [wez/wzsh](https://github.com/wez/wzsh) - Wez's Shell
-
-*   [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-
-*   [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
-
-*   [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
-
-*   [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
-
-*   [chyyuu/os\_kernel\_lab](https://github.com/chyyuu/os_kernel_lab) - OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32
-
-*   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-*   [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
-
-*   [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
-
-*   [serayuzgur/weld](https://github.com/serayuzgur/weld) - Full fake REST API generator written with Rust
-
-*   [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust
-
-*   [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-
-*   [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
-
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
-
-*   [bendudson/EuraliOS](https://github.com/bendudson/EuraliOS) - A hobby x86-64 operating system written in Rust
-
-*   [RWTH-OS/eduOS-rs](https://github.com/RWTH-OS/eduOS-rs) - A teaching operating system written in Rust
-
-*   [intermezzOS/kernel](https://github.com/intermezzOS/kernel) - A hobby operating system, in Rust
-
-*   [facebookarchive/cargo-guppy](https://github.com/facebookarchive/cargo-guppy) - Track and query Cargo dependency graphs.
-
-*   [redox-os/ion](https://github.com/redox-os/ion) - Mirror of https://gitlab.redox-os.org/redox-os/ion
-
-*   [cuppar/rtd](https://github.com/cuppar/rtd) - Learn Rust by 500 lines code
-
-*   [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-
-*   [wadackel/rs-monkey-lang](https://github.com/wadackel/rs-monkey-lang) - Monkey Programming Language written in Rust.
-
-*   [connorskees/grass](https://github.com/connorskees/grass) - A Sass compiler written purely in Rust
-
-*   [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
-
-*   [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
-
-*   [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-
-*   [Rydgel/monkey-rust](https://github.com/Rydgel/monkey-rust) - An interpreter for the Monkey programming language written in Rust
-
-*   [kenpratt/rusty\_scheme](https://github.com/kenpratt/rusty_scheme) - A Scheme interpreter written in Rust
-
-*   [tdp2110/crafting-interpreters-rs](https://github.com/tdp2110/crafting-interpreters-rs) - Crafting Interpreters in Rust
-
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-
-*   [sioodmy/todo](https://github.com/sioodmy/todo) - Simple todo cli program written in rust
-
-*   [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-
-*   [lennart-finke/kyun](https://github.com/lennart-finke/kyun) - The worst text editor (yet)
-
-*   [lambda-fairy/maud](https://github.com/lambda-fairy/maud) - :pencil: Compile-time HTML templates for Rust
-
-*   [Samyak2/toipe](https://github.com/Samyak2/toipe) - yet another typing test, but crab flavoured
-
-*   [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-
-*   [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust
-
-*   [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
-
-*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-
-*   [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-
-*   [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework.
-
-*   [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
-
-*   [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
-
-*   [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-
-*   [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-
-*   [Pagliacii/sicp-reg-machine](https://github.com/Pagliacii/sicp-reg-machine) - Register machine in SICP Chapter 5. Solve exercise 5.51.
-
-*   [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [bheisler/TinyTemplate](https://github.com/bheisler/TinyTemplate) - A small, lightweight template engine
-
-*   [rust-hosted-langs/book](https://github.com/rust-hosted-langs/book) - Writing Interpreters in Rust: a Guide
-
-*   [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
-
-*   [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-
-*   [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project
-
-*   [BurntSushi/walkdir](https://github.com/BurntSushi/walkdir) - Rust library for walking directories recursively.
-
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-
-*   [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
-
-*   [exercism/rust](https://github.com/exercism/rust) - Exercism exercises in Rust.
-
-*   [doraemonkeys/rust\_code\_snippets](https://github.com/doraemonkeys/rust_code_snippets) - Rust语言圣经代码片段合集，带知识点注释
-
-*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
-
-*   [Privoce/vocechat-server-rust](https://github.com/Privoce/vocechat-server-rust) - VoceChat is a superlight rust written social server. Easy integration to your site/app.
-
-*   [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
-
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based web bundler with webpack-compatible API 🦀️
-
-*   [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-
-*   [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-
-*   [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
-
-*   [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-
-*   [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
-
-*   [better-rs/learn-rs](https://github.com/better-rs/learn-rs) - learn rust
-
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-
-*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
-
-*   [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
-
-*   [limads/queries](https://github.com/limads/queries) - Queries is a workbench to interact with relational databases, with initial support for Postgres.
-
-*   [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-
-*   [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
-
-*   [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-
-*   [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-
-*   [boa-dev/boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
-
-*   [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-
-*   [Nugine/bfjit](https://github.com/Nugine/bfjit) - Brainfuck JIT 虚拟机教程
-
-*   [hora-search/hora](https://github.com/hora-search/hora) - 🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .
-
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-
-*   [HerringtonDarkholme/vue-compiler](https://github.com/HerringtonDarkholme/vue-compiler) - Vue's template compiler reimplemented in Rust!
-
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-
-*   [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
-
-*   [ekzhang/rustpad](https://github.com/ekzhang/rustpad) - Efficient and minimal collaborative code editor, self-hosted, no database required
-
-*   [telecss/telecss](https://github.com/telecss/telecss) - WIP: CSS tokenizer, parser, transformer, minifier, written in Rust.
-
-*   [wubx/rust-in-databend](https://github.com/wubx/rust-in-databend) - Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend
-
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-
-*   [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) - ac-library-rs is a rust port of AtCoder Library (ACL).
-
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
 ## Svelte
 
 *   [nicejade/wealth-tracker](https://github.com/nicejade/wealth-tracker) - 💰生财有迹（Wealth Tracker）是一款专注于个人资产分析的应用程序。其核心功能是：全面记录并展示用户的资产状况，帮助用户轻松了解财务现状；运用 AI 能力，结合每种资产的特性和当前环境，提供适宜的财务建议。
@@ -12747,10 +12751,6 @@
 ## Nunjucks
 
 *   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-
-## Kotlin
-
-*   [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Lottie wrapper for React Native.
 
 ## Processing
 

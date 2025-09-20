@@ -56,6 +56,8 @@
 
 ## TypeScript
 
+*   [element-hq/element-desktop](https://github.com/element-hq/element-desktop) - A glossy Matrix collaboration client for desktop.
+
 *   [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.
 
 *   [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
@@ -94,7 +96,7 @@
 
 *   [pekkiriscim/vault](https://github.com/pekkiriscim/vault) - save links, notes, and images. private & open source.
 
-*   [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: open claude for chrome, automate your browser
+*   [AIPexStudio/AIPex](https://github.com/AIPexStudio/AIPex) - AIPex: agentic assistant in your browser, automate your browser using natural language
 
 *   [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 
@@ -147,6 +149,8 @@
 *   [juancgarza/claude-in-a-box](https://github.com/juancgarza/claude-in-a-box) - A ChatGPT Canvas/Claude Artifacts-style interface for Claude Code running in E2B sandboxes. Build, create, and code anything with AI-powered development in secure, isolated  environments.
 
 *   [e2b-dev/surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
+
+*   [goplus/builder](https://github.com/goplus/builder) - XBuilder
 
 *   [weynechen/intrascribe](https://github.com/weynechen/intrascribe) - 可内网私有化部署，给团队/单位使用的语音转录总结工具，完整的前后端代码
 
@@ -4254,7 +4258,7 @@
 
 *   [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
 
-*   [dataease/SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+*   [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
 
 *   [HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) -
 
@@ -4282,7 +4286,7 @@
 
 *   [Simpleyyt/ai-manus](https://github.com/Simpleyyt/ai-manus) - AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.
 
-*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+*   [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 *   [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 
@@ -6449,8 +6453,6 @@
 *   [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
 
 *   [zyyzyykk/kkTerminal](https://github.com/zyyzyykk/kkTerminal) - A terminal for Web SSH connection
-
-*   [goplus/builder](https://github.com/goplus/builder) - XBuilder
 
 *   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 
@@ -11637,8 +11639,6 @@
 *   [gijsroge/priority-navigation](https://github.com/gijsroge/priority-navigation) - Javascript implementation for Priority+ Navigation — no dependencies
 
 *   [shinygang/Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs) - 基于vue.js重写Cnodejs.org社区的webapp
-
-*   [keepfool/vue-tutorials](https://github.com/keepfool/vue-tutorials) - Let you insight into the Vue.js
 
 ## Svelte
 

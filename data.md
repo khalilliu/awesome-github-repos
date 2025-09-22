@@ -130,7 +130,7 @@
 
 *   [epicenter-md/epicenter](https://github.com/epicenter-md/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 
-*   [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter) - An open-source, all-in-one AI API router.
+*   [LMRouter/lmrouter](https://github.com/LMRouter/lmrouter) - An open-source, all-in-one AI API router
 
 *   [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 
@@ -846,7 +846,7 @@
 
 *   [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 
-*   [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress is a free blog and CMS system developed using Next.js and AntDesign.（ReactPress是一个基于Next.js+Antd5.0的博客\&CMS系统）Demo：https://blog.gaoredu.com
+*   [fecommunity/reactpress](https://github.com/fecommunity/reactpress) - 🔥 ReactPress-Modern Full-Stack Publishing Platform Built with React, Next.js, and NestJS（基于 React、Next.js 和 NestJS 构建的现代化全栈发布平台）。Demo：https://blog.gaoredu.com
 
 *   [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE.
 
@@ -4466,7 +4466,7 @@
 
 *   [Evil0ctal/Douyin\_TikTok\_Download\_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) - 🚀「Douyin\_TikTok\_Download\_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。
 
-*   [insistence/Dash-FastAPI-Admin](https://github.com/insistence/Dash-FastAPI-Admin) - A general middle and backend management system developed purely in Python based on Dash+FastAPI.基于Dash+FastAPI纯Python开发的一个通用中后台管理系统。
+*   [WebFlowPy/Dash-FastAPI-Admin](https://github.com/WebFlowPy/Dash-FastAPI-Admin) - A general middle and backend management system developed purely in Python based on Dash+FastAPI.基于Dash+FastAPI纯Python开发的一个通用中后台管理系统。
 
 *   [AntonioMrtz/SpotifyElectron](https://github.com/AntonioMrtz/SpotifyElectron) - A cross-platform, open-source music streaming desktop app that includes Spotify-like core functionalities and user-requested features—such as the ability to upload personal music.
 

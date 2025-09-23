@@ -254,7 +254,7 @@
 
 *   [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 
-*   [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+*   [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 
 *   [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 
@@ -1654,7 +1654,7 @@
 
 *   [vincentdchan/TerminalOne](https://github.com/vincentdchan/TerminalOne) - Terminal One is a blazingly fast, smart and and friendly terminal emulator for developers.
 
-*   [adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) - Feature-rich and customizable data grid React component
+*   [Comcast/react-data-grid](https://github.com/Comcast/react-data-grid) - Feature-rich and customizable data grid React component
 
 *   [F-star/suika](https://github.com/F-star/suika) - A Web Graphics Editor Built with Canvas. 基于 Canvas 实现的图形编辑器
 
@@ -4246,7 +4246,7 @@
 
 *   [m6r-ai/humbug](https://github.com/m6r-ai/humbug) - Humbug: building an operating system for human-AI collaboration
 
-*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
+*   [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，只看真正关心的新闻 - 多平台热点聚合工具，趋势分析工具，一键监控抖音、知乎、哔哩哔哩、今日头条、百度热搜、贴吧、微博、华尔街见闻、财联社等35个平台，智能关键词筛选，自动生成热点分析报告。支持企业微信、飞书、钉钉、Telegram、邮件推送，30秒网页部署，1分钟手机通知，无需编程基础。也支持docker私人部署⭐ 让算法为你服务，而非被算法绑架
 
 *   [suitenumerique/drive](https://github.com/suitenumerique/drive) - A collaborative file sharing and document management platform that scales. Built with Django and React.
 
@@ -5492,7 +5492,7 @@
 
 *   [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 
-*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
+*   [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
 
 *   [version-fox/vfox](https://github.com/version-fox/vfox) - A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
 
@@ -8336,7 +8336,7 @@
 
 *   [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 
-*   [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
+*   [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 
 *   [dthree/cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6
 
@@ -11332,7 +11332,7 @@
 
 *   [redux-form/redux-form](https://github.com/redux-form/redux-form) - A Higher Order Component using react-redux to keep form state in a Redux store
 
-*   [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
+*   [reactioncommerce/reaction](https://github.com/reactioncommerce/reaction) - Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.
 
 *   [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 

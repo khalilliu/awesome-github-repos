@@ -4862,6 +4862,8 @@
 
 *   [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 
+*   [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
+
 *   [dabeaz/python-cookbook](https://github.com/dabeaz/python-cookbook) - Code samples from the "Python Cookbook, 3rd Edition", published by O'Reilly & Associates, May, 2013.
 
 *   [ramsayleung/jd\_spider](https://github.com/ramsayleung/jd_spider) - Two dumb distributed crawlers
@@ -6860,7 +6862,7 @@
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
-*   [raindropio/app](https://github.com/raindropio/app) -
+*   [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 
 *   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 
@@ -11909,8 +11911,6 @@
 *   [oreilly-japan/deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch) - 『ゼロから作る Deep Learning』(O'Reilly Japan, 2016)
 
 *   [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
-
-*   [pytorch/tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 
 *   [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 

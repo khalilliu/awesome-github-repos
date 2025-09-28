@@ -7554,7 +7554,7 @@
 
 *   [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 
-*   [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts
+*   [klaudiosinani/qoa](https://github.com/klaudiosinani/qoa) - Minimal interactive command-line prompts library
 
 *   [mathieudutour/medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
 
@@ -8224,7 +8224,7 @@
 
 *   [khalilliu/create-react-app](https://github.com/khalilliu/create-react-app) - Create React apps with no build configuration.
 
-*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 
 *   [neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain) - A chaining API to generate and simplify the modification of Webpack configurations.
 

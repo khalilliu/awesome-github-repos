@@ -92,7 +92,7 @@
 
 *   [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.
 
-*   [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator. Create professional slides with customizable themes and AI-generated content in minutes.
+*   [allweonedev/presentation-ai](https://github.com/allweonedev/presentation-ai) - Open source AI presentation generator Gamma Alternative. Create professional slides with customizable themes and AI-generated content in minutes.
 
 *   [preetsuthar17/ikiform](https://github.com/preetsuthar17/ikiform) - Enterprise-level forms with all the features you need at a price that makes sense
 
@@ -560,7 +560,7 @@
 
 *   [aws-samples/swift-chat](https://github.com/aws-samples/swift-chat) - A lightning-fast, cross-platform AI chat application built with React Native.
 
-*   [posthtml/htmlnano](https://github.com/posthtml/htmlnano) - Modular HTML minifier, built on top of the PostHTML
+*   [maltsev/htmlnano](https://github.com/maltsev/htmlnano) - Modular HTML minifier, built on top of the PostHTML
 
 *   [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) -
 
@@ -1972,7 +1972,7 @@
 
 *   [Maronato/vue-toastification](https://github.com/Maronato/vue-toastification) - Vue notifications made easy!
 
-*   [revoltchat/revite](https://github.com/revoltchat/revite) - Revolt client built with Preact.
+*   [stoatchat/for-legacy-web](https://github.com/stoatchat/for-legacy-web) - Legacy web app for Stoat (formerly Revite for Revolt)
 
 *   [staticdeploy/staticdeploy](https://github.com/staticdeploy/staticdeploy) - Open-Source Platform for Deploying Static Apps
 
@@ -5016,7 +5016,7 @@
 
 *   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 
-*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - The most reliable AI agent framework that supports MCP.
+*   [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - Agent Framework For Fintech
 
 *   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 一站式 LLM 聊天机器人平台及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 
@@ -5152,7 +5152,7 @@
 
 *   [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
-*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+*   [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
 
 *   [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 
@@ -10542,7 +10542,7 @@
 
 *   [mkniewallner/migrate-to-uv](https://github.com/mkniewallner/migrate-to-uv) - Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager
 
-*   [winfunc/deepclaude](https://github.com/winfunc/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
+*   [winfunc/deepreasoning](https://github.com/winfunc/deepreasoning) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 
 *   [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 

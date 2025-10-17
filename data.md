@@ -954,7 +954,7 @@
 
 *   [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App
 
-*   [inkeep/agents](https://github.com/inkeep/agents) - Platform to create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For AI assistants and multi-agent workflows.
+*   [inkeep/agents](https://github.com/inkeep/agents) - Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For AI assistants and multi-agent workflows.
 
 *   [openpatch/hyperbook](https://github.com/openpatch/hyperbook) - Hyperbook is a quick and easy way to build interactive workbooks, that support modern standards and runs superfast.
 
@@ -1133,8 +1133,6 @@
 *   [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 
 *   [joschan21/contentport](https://github.com/joschan21/contentport) - The open-source content platform for technical founders
-
-*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 
 *   [regaxjs/regax](https://github.com/regaxjs/regax) - A fast,scalable,distributed game server framework for Node.js
 
@@ -11339,6 +11337,8 @@
 *   [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 
 *   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
+
+*   [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
 
 *   [madeofpendletonwool/PinePods](https://github.com/madeofpendletonwool/PinePods) - Pinepods is a complete podcast management system that allows you to play, download, and keep track of podcasts you enjoy. All self hosted and enjoyed on your own server!
 

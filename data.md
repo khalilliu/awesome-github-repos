@@ -56,7 +56,7 @@
 
 ## Java
 
-*   [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Turn your favorite Youtube channels into to podcast in the easiest and elegant way.
+*   [aizhimou/pigeon-pod](https://github.com/aizhimou/pigeon-pod) - Listen to YouTube. Anywhere.
 
 *   [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 

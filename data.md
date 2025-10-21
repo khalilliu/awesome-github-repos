@@ -990,7 +990,7 @@
 
 *   [Hzao/PocketChest](https://github.com/Hzao/PocketChest) - Secure, serverless file and text sharing built on Cloudflare with large file support.
 
-*   [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add generative UI components to your AI assistant, copilot, or agent.
+*   [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add natural language control to your React app, with MCP and generative UX
 
 *   [napthedev/fireverse](https://github.com/napthedev/fireverse) - A chat app made with react, typescript, firebase, tailwind
 
@@ -1230,7 +1230,7 @@
 
 *   [filipsobol/sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks
 
-*   [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
+*   [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron + Flutter搭建的远程桌面控制
 
 *   [Tiledesk/design-studio](https://github.com/Tiledesk/design-studio) - Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.
 
@@ -5848,7 +5848,7 @@
 
 *   [schej-it/timeful.app](https://github.com/schej-it/timeful.app) - Timeful (formerly Schej) is a scheduling platform helps you find the best time for a group to meet. It is a free availability poll that is easy to use and integrates with your calendar.
 
-*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
+*   [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）
 
 *   [wangyuan389/yunda](https://github.com/wangyuan389/yunda) - 低代码搭建小程序、H5、问卷、图文。云搭万物，触手可及！
 
